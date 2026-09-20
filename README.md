@@ -8,10 +8,10 @@
 ## About Me
 - **Student ID**: s1151536
 - **Student Name**: Hong-Ze, Yang
-- **Student E-mail**: s1151536@mail.yzu.edu.tw
+- **Student E-mail**: [Hong-Ze, Yang](s1151536@mail.yzu.edu.tw
 
-## Repository Purpose
+## Repository Purpose)
 This repository stores assignments, projects, and documentation for the CI001 course.
 
 ## GitHub Pages Site
-Visit my personal website: [https://<username>.github.io/](https://<username>.github.io/)
+Visit my personal website: https://Hoochaa.github.io/
